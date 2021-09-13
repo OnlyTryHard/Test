@@ -1,1 +1,1 @@
-# rsschool-cv Latter ill add my username here
+https://github.com/OnlyTryHard/rsschool-cv.git
