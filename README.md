@@ -1,1 +1,1 @@
-https://github.com/OnlyTryHard/rsschool-cv
+https://OnlyTryHard.github.io/rsschool-cv
